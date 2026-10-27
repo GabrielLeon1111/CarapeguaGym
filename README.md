@@ -11,6 +11,22 @@
 
 ---
 
+## Capturas
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/capturas/inicio.png" width="200" alt="Ganancias"><br><b>Ganancias</b><br>Hoy, semana, mes, año y desglose</td>
+    <td align="center"><img src="docs/capturas/socios.png" width="200" alt="Socios"><br><b>Socios</b><br>Estado de cada membresía</td>
+    <td align="center"><img src="docs/capturas/renovaciones.png" width="200" alt="Renovaciones"><br><b>Por vencer / vencidos</b><br>Aviso y renovación en un toque</td>
+    <td align="center"><img src="docs/capturas/inventario.png" width="200" alt="Inventario"><br><b>Inventario</b><br>Capital invertido, stock y costo promedio</td>
+  </tr>
+</table>
+
+> Las capturas usan **datos de ejemplo**. Se generan solas con
+> `CAPTURAS_DIR=docs/capturas flutter test test/capturas_readme_test.dart`.
+
+---
+
 ## Descripción
 
 Aplicación desarrollada para la administración diaria de un gimnasio real. Reemplaza el registro manual de socios y cobros por un sistema centralizado que calcula automáticamente vencimientos, ingresos, stock y ganancias.
